@@ -1,0 +1,15 @@
+* {
+  margin: 0;  /* Espaçamentos externos */
+  padding: 0; /* Espaçamentos internos */
+  box-sizing: border-box; /* Tamanho da caixa */
+}
+
+
+
+
+.header { /* Estilo para elementos com classe 'header' */
+  background-color: #4B89DC; /* Define a cor de fundo como azul */
+  color: white; /* Define a cor do texto como branco */
+  padding: 20px 0; /* Adiciona espaçamento interno de 20px no topo e base, sem espaçamento nas laterais */
+  text-align: center; /* Centraliza o texto horizontalmente */
+}
